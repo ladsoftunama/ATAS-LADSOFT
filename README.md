@@ -6,10 +6,10 @@ Bem-vindo à página de atas da LADSOFT UNAMA! Esta página contém todas as ata
 
 📁 **Estrutura de Pastas:**
 
-| Pasta         | Descrição                                                              |
-| ------------- | ---------------------------------------------------------------------- |
-| `atas-2024/`  | [Contém todas as atas de reuniões realizadas em 2024.](/atas-2024/)    |
-| `modelo_ata/` | [Modelo padrão utilizado para criar as atas de reunião.](/modelo_ata/) |
+| Pasta         | Descrição                                                                     |
+| ------------- | ----------------------------------------------------------------------------- |
+| `atas-2024/`  | [Contém todas as atas de reuniões e eventos realizadas em 2024.](/atas-2024/) |
+| `modelo_ata/` | [Modelo padrão utilizado para criar as atas de reunião.](/modelo_ata/)        |
 
 📝 **Instruções de Uso:**
 

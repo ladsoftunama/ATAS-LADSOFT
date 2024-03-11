@@ -1,4 +1,6 @@
-**README - Página de Atas da LADSOFT UNAMA**
+![img](/Imagens/image_readme.png)
+
+# Repositorio de Atas da LADSOFT UNAMA
 
 Bem-vindo à página de atas da LADSOFT UNAMA! Esta página contém todas as atas de reuniões realizadas durante o ano de 2024, bem como o modelo utilizado para criar as atas.
 
